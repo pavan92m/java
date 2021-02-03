@@ -11,7 +11,7 @@ public class EqualsListStreamApi {
 		list1.add("pavan");
 		list1.add("pratap");
 		list1.add("Singh");
-		
+		System.out.println(list1);
 		List<String> list2= new ArrayList<String>();
 		list2.add("1");
 		list2.add("pp");
